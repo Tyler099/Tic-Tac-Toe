@@ -1,3 +1,4 @@
+//this is my tic tac toe game, written in java.
 import java.util.Random;
 import java.util.Scanner;
 public class TicTacToe {
